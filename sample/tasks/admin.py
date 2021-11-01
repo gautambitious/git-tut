@@ -4,3 +4,4 @@ from .models import CustomUser, Task
 
 admin.site.register(CustomUser)
 admin.site.register(Task)
+# This is the admin file
